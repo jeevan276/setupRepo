@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* Optional: Body background to match Aura theme */
+body {
+  @apply bg-surface-50 dark:bg-surface-950 text-surface-700 dark:text-surface-0;
+  margin: 0;
+}
